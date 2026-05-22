@@ -5,7 +5,7 @@ The indicator is based on a three 34-period exponential moving averages and canl
 
 It supports multi-timeframe (MTF) operation and all kinds of alerts.
 
-![Raghee Horner indicator with 34EMA Wave and GRaB candles](https://github.com/EarnForex/RagheeHorner/blob/main/README_Images/raghee-horner-34wave-grab.png)
+![Raghee Horner indicator with 34EMA Wave and GRaB candles](https://github.com/EarnForex/RagheeHorner/blob/main/raghee-horner-34wave-grab.png)
 
 More information about this custom MetaTrader indicator is available here:
 https://www.earnforex.com/indicators/Raghee-Horner/
